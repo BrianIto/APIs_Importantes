@@ -3,8 +3,7 @@
 <p><a href="https://buscacepinter.correios.com.br/app/cep/carrega-cep.php?cep=69094-700">API dos Correios para buscar CEP</a> -> <code>"https://buscacepinter.correios.com.br/app/cep/carrega-cep.php?cep=" + numero do CEP</code></p>
 <p>Exemplo de Response: </p>
 <code>
-    <pre>
-{
+    <pre>{
     "erro": false,
     "mensagem": "DADOS LOCALIZADOS COM SUCESSO.",
     "total": 1,
@@ -28,6 +27,5 @@
             "faixasCep": []
         }
     ]
-}
-</pre>
+}</pre>
 </code>
